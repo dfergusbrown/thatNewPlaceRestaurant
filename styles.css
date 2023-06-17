@@ -1,0 +1,39 @@
+.img-background {
+background-image: url("images/Dark Academia restaurant.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+width: 100vw;
+height: 100vh;
+position: relative;
+}
+
+body {
+    color: white;
+    font-family: 'Josefin Slab', serif;
+}
+
+.fa {
+    color: white;
+}
+
+
+.img2 {
+    position: absolute;
+    left: 100px;
+}
+
+footer {
+    background-color: rgb(108,27,7);
+}
+
+.nav-item {
+    font-size: 30px;
+}
+
+.btn-social-icon {
+
+}
+
+a {
+    color: white;
+}
